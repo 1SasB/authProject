@@ -9,7 +9,7 @@ To get this node server running locally on your computer:
 * Clone this repository:
 
 ```
-git clone https://github.com/1SasB/node-task-manager-API.git
+git clone https://github.com/1SasB/authProject.git
 ```
 
 * Install dependancies:
