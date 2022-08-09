@@ -1,4 +1,4 @@
-# Task Manager REST API
+# Authentication REST API
 
 REST API Built With Node.js, Express and MongoDB
 
